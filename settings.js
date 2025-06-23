@@ -1,9 +1,9 @@
-//base by HANSTZ
-//YouTube: @HANSTZ-TECH
-//Whatsapp https://wa.me/255756530143
-//GitHub: @Mrhanstz
-//WhatsApp: https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
-//want more free bot scripts? follow my channel : https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
+//base by ALIEN
+//YouTube: @ALIEN
+//Whatsapp https://wa.me/2348100236360
+//GitHub: @unknownalien28
+//WhatsApp: https://whatsapp.com/channel/0029Vb5t5EaEwEjnvkk6Yb1Z
+//want more free bot scripts? follow my channel : https://whatsapp.com/channel/0029Vb5t5EaEwEjnvkk6Yb1Z
 const fs = require('fs')
 const chalk = require('chalk')
 //contact details
